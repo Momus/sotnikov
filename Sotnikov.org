@@ -1,0 +1,5 @@
+* First App
+  #+BEGIN_SRC 
+   lein new myapp
+  #+END_SRC
+
